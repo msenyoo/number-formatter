@@ -1,6 +1,6 @@
 {
   "name": "number-formatter-msenyoo",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "number formatter",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "name": "Senthilkumar Mathivanan",
     "email": "msenyoo@gmail.com"
   },
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/msenyoo/number-formatter/issues"
   },
